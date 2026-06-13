@@ -1,0 +1,15 @@
+# 參考文件（本地保留，不推送至 GitHub）
+*.pdf
+*.docx
+*.pptx
+ppt/
+參考判決/
+
+# 系統檔案
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 編輯器
+.vscode/
+*.swp
